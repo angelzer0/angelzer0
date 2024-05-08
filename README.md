@@ -22,8 +22,11 @@
   </ul>
 </div>
 
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,heroku" alt="My Skills">
-</a>
+<div style="display: flex; justify-content: center;">
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,heroku" alt="My Skills">
+    </a>
+  </div>
+</div>
 
