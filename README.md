@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,railway)](https://skillicons.dev)
 
 <!--
 **angelzer0/angelzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
