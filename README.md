@@ -1,7 +1,5 @@
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,7 +23,10 @@
 </div>
 
 
-    [![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,heroku)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,heroku" alt="My Skills">
+</a>
+
 
 <div id="user-content-toc">
   <ul align="center">
