@@ -27,9 +27,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,js,html,css,react,java,spring,bootstrap,jenkins,docker,git,angular,linux,mysql,postman,vercel,heroku" alt="My Skills">
 </a>
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
