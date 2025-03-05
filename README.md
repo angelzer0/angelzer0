@@ -25,7 +25,7 @@
 <div style="display: flex; justify-content: center;">
   <div>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,spring,angular,typescript" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,spring,angular,typescript" alt="My Skills"><br>
       <img src="https://skillicons.dev/icons?i=java,spring,docker,git,mysql" alt="My Skills">
     </a>
   </div>
