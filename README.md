@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid #333; padding: 20px; border-radius: 10px;">
+<div align="left" style="border: 2px solid #333; padding: 20px; border-radius: 10px;">
   <h1>Hi 👋, I'm Angel</h1>
 
   <h2>🚀 Programming</h2>
