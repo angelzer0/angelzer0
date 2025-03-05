@@ -8,7 +8,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,angular," alt="Frontend Skills">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,spring,docker,git,mariadb,gitlab" alt="Backend Skills">
+      <img src="https://skillicons.dev/icons?i=java,spring,docker,git,mysql,gitlab" alt="Backend Skills">
     </a>
   </div>
 </div>
