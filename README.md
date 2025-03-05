@@ -6,9 +6,9 @@
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,typescript,angular,spring" alt="Frontend Skills">
+      <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,angular," alt="Frontend Skills">
       <br>
-      <img src="https://skillicons.dev/icons?i=java,spring,docker,git,mysql" alt="Backend Skills">
+      <img src="https://skillicons.dev/icons?i=java,spring,docker,git,mariadb" alt="Backend Skills">
     </a>
   </div>
 </div>
