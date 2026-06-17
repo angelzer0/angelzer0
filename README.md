@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Skills">
 
   <h4>Testing & Build</h4>
-  <img src="https://skillicons.dev/icons?i=junit,maven,gradle,git,gitlab" alt="Testing & Build Skills">
+  <img src="https://skillicons.dev/icons?i=maven,gradle,git,gitlab" alt="Testing & Build Skills">
 
   <h4>Cloud & DevOps</h4>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="Cloud Skills">
